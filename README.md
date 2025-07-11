@@ -14,7 +14,7 @@ This project implements a multi-agent reinforcement learning (MARL) system for t
 Clone the repository, create a Conda environment with Python 3.10.12, activate it, and install all required dependencies:
 
 ```bash
-git clone https://github.com/Ezra3578/TronFinal.git && cd your-repo-name
+git clone https://github.com/Ezra3578/TronFinal.git && cd TronFinal
 conda create -n tron-env python=3.10.12 -y && conda activate tron-env
 pip install "ray[rllib]"==2.9.3
 pip install pettingzoo==1.23.1
