@@ -1,0 +1,1472 @@
+[
+    {
+        "iteration": 0,
+        "reward_red_team": 3.2467741935483865,
+        "reward_blue_team": 3.335483870967741,
+        "entropy_red": 1.609177623854743,
+        "entropy_blue": 1.609236557226555
+    },
+    {
+        "iteration": 1,
+        "reward_red_team": 3.095000000000001,
+        "reward_blue_team": 3.135000000000001,
+        "entropy_red": 1.6090948445628388,
+        "entropy_blue": 1.6091652484855266
+    },
+    {
+        "iteration": 2,
+        "reward_red_team": 3.1150000000000007,
+        "reward_blue_team": 3.035000000000001,
+        "entropy_red": 1.6089200213843702,
+        "entropy_blue": 1.6083864368573584
+    },
+    {
+        "iteration": 3,
+        "reward_red_team": 3.2900000000000005,
+        "reward_blue_team": 3.3050000000000006,
+        "entropy_red": 1.6078729931265117,
+        "entropy_blue": 1.6082216083401382
+    },
+    {
+        "iteration": 4,
+        "reward_red_team": 3.555,
+        "reward_blue_team": 3.535,
+        "entropy_red": 1.6084628036866586,
+        "entropy_blue": 1.6074926055967809
+    },
+    {
+        "iteration": 5,
+        "reward_red_team": 3.365,
+        "reward_blue_team": 3.31,
+        "entropy_red": 1.608792456834003,
+        "entropy_blue": 1.607895148763753
+    },
+    {
+        "iteration": 6,
+        "reward_red_team": 3.0800000000000005,
+        "reward_blue_team": 3.1450000000000005,
+        "entropy_red": 1.608655415351192,
+        "entropy_blue": 1.6074146143113723
+    },
+    {
+        "iteration": 7,
+        "reward_red_team": 3.3750000000000004,
+        "reward_blue_team": 3.3500000000000005,
+        "entropy_red": 1.6074780579656363,
+        "entropy_blue": 1.6059639382106001
+    },
+    {
+        "iteration": 8,
+        "reward_red_team": 3.415,
+        "reward_blue_team": 3.33,
+        "entropy_red": 1.6076512256016333,
+        "entropy_blue": 1.6074700182924668
+    },
+    {
+        "iteration": 9,
+        "reward_red_team": 3.25,
+        "reward_blue_team": 3.27,
+        "entropy_red": 1.6074404198636292,
+        "entropy_blue": 1.607707613830765
+    },
+    {
+        "iteration": 10,
+        "reward_red_team": 3.39,
+        "reward_blue_team": 3.39,
+        "entropy_red": 1.6070685590306917,
+        "entropy_blue": 1.6061676276627408
+    },
+    {
+        "iteration": 11,
+        "reward_red_team": 3.5999999999999996,
+        "reward_blue_team": 3.5599999999999996,
+        "entropy_red": 1.6049577037493388,
+        "entropy_blue": 1.6049129318165523
+    },
+    {
+        "iteration": 12,
+        "reward_red_team": 3.365,
+        "reward_blue_team": 3.36,
+        "entropy_red": 1.603778644764062,
+        "entropy_blue": 1.6038506483038266
+    },
+    {
+        "iteration": 13,
+        "reward_red_team": 3.4749999999999996,
+        "reward_blue_team": 3.4449999999999994,
+        "entropy_red": 1.5925352768351635,
+        "entropy_blue": 1.6015676294763883
+    },
+    {
+        "iteration": 14,
+        "reward_red_team": 3.6499999999999995,
+        "reward_blue_team": 3.595,
+        "entropy_red": 1.6048666839647774,
+        "entropy_blue": 1.599408788482348
+    },
+    {
+        "iteration": 15,
+        "reward_red_team": 3.49,
+        "reward_blue_team": 3.485,
+        "entropy_red": 1.601804460460941,
+        "entropy_blue": 1.5981410024142024
+    },
+    {
+        "iteration": 16,
+        "reward_red_team": 3.435,
+        "reward_blue_team": 3.44,
+        "entropy_red": 1.602783445517222,
+        "entropy_blue": 1.5974699083194939
+    },
+    {
+        "iteration": 17,
+        "reward_red_team": 3.2,
+        "reward_blue_team": 3.315,
+        "entropy_red": 1.6042396390189728,
+        "entropy_blue": 1.5962654586994287
+    },
+    {
+        "iteration": 18,
+        "reward_red_team": 3.27,
+        "reward_blue_team": 3.33,
+        "entropy_red": 1.5878886974106232,
+        "entropy_blue": 1.5896225939194362
+    },
+    {
+        "iteration": 19,
+        "reward_red_team": 3.385,
+        "reward_blue_team": 3.415,
+        "entropy_red": 1.5823342898239692,
+        "entropy_blue": 1.5786641765122462
+    },
+    {
+        "iteration": 20,
+        "reward_red_team": 3.555,
+        "reward_blue_team": 3.535,
+        "entropy_red": 1.582680711722133,
+        "entropy_blue": 1.5895361007501683
+    },
+    {
+        "iteration": 21,
+        "reward_red_team": 3.32,
+        "reward_blue_team": 3.275,
+        "entropy_red": 1.5652834214190001,
+        "entropy_blue": 1.6013326967755954
+    },
+    {
+        "iteration": 22,
+        "reward_red_team": 3.5949999999999993,
+        "reward_blue_team": 3.595,
+        "entropy_red": 1.5377203881138504,
+        "entropy_blue": 1.5865575143785187
+    },
+    {
+        "iteration": 23,
+        "reward_red_team": 3.904999999999999,
+        "reward_blue_team": 3.925,
+        "entropy_red": 1.5253112353218927,
+        "entropy_blue": 1.5791451190107613
+    },
+    {
+        "iteration": 24,
+        "reward_red_team": 3.844999999999999,
+        "reward_blue_team": 3.8949999999999987,
+        "entropy_red": 1.5316551639388005,
+        "entropy_blue": 1.5700156035522619
+    },
+    {
+        "iteration": 25,
+        "reward_red_team": 3.7599999999999993,
+        "reward_blue_team": 3.7249999999999988,
+        "entropy_red": 1.560016179829836,
+        "entropy_blue": 1.576315321204483
+    },
+    {
+        "iteration": 26,
+        "reward_red_team": 3.62,
+        "reward_blue_team": 3.575,
+        "entropy_red": 1.5686194475740194,
+        "entropy_blue": 1.560992510865132
+    },
+    {
+        "iteration": 27,
+        "reward_red_team": 3.59,
+        "reward_blue_team": 3.62,
+        "entropy_red": 1.5508990791108874,
+        "entropy_blue": 1.5446781730411028
+    },
+    {
+        "iteration": 28,
+        "reward_red_team": 3.779999999999999,
+        "reward_blue_team": 3.784999999999999,
+        "entropy_red": 1.5254781398721922,
+        "entropy_blue": 1.5423324896229638
+    },
+    {
+        "iteration": 29,
+        "reward_red_team": 3.9149999999999987,
+        "reward_blue_team": 3.8199999999999994,
+        "entropy_red": 1.5132695915798346,
+        "entropy_blue": 1.5226563308387995
+    },
+    {
+        "iteration": 30,
+        "reward_red_team": 3.81,
+        "reward_blue_team": 3.7099999999999995,
+        "entropy_red": 1.5221477427867929,
+        "entropy_blue": 1.5327005020032327
+    },
+    {
+        "iteration": 31,
+        "reward_red_team": 3.7549999999999994,
+        "reward_blue_team": 3.6749999999999994,
+        "entropy_red": 1.5259149185334793,
+        "entropy_blue": 1.5147163646916548
+    },
+    {
+        "iteration": 32,
+        "reward_red_team": 3.8749999999999987,
+        "reward_blue_team": 3.929999999999999,
+        "entropy_red": 1.5098715773192786,
+        "entropy_blue": 1.498364763308053
+    },
+    {
+        "iteration": 33,
+        "reward_red_team": 4.219999999999998,
+        "reward_blue_team": 4.214999999999998,
+        "entropy_red": 1.4835022947440544,
+        "entropy_blue": 1.4801544904708863
+    },
+    {
+        "iteration": 34,
+        "reward_red_team": 4.404999999999998,
+        "reward_blue_team": 4.419999999999998,
+        "entropy_red": 1.4435346857193978,
+        "entropy_blue": 1.4783063642680645
+    },
+    {
+        "iteration": 35,
+        "reward_red_team": 4.624999999999997,
+        "reward_blue_team": 4.504999999999998,
+        "entropy_red": 1.4466587869807928,
+        "entropy_blue": 1.4752537908092622
+    },
+    {
+        "iteration": 36,
+        "reward_red_team": 4.8249999999999975,
+        "reward_blue_team": 4.704999999999997,
+        "entropy_red": 1.4838466408352058,
+        "entropy_blue": 1.4697668396016603
+    },
+    {
+        "iteration": 37,
+        "reward_red_team": 4.639999999999997,
+        "reward_blue_team": 4.504999999999998,
+        "entropy_red": 1.4642887266973654,
+        "entropy_blue": 1.4590684425085783
+    },
+    {
+        "iteration": 38,
+        "reward_red_team": 4.494999999999997,
+        "reward_blue_team": 4.514999999999998,
+        "entropy_red": 1.4310341610262791,
+        "entropy_blue": 1.442948160568873
+    },
+    {
+        "iteration": 39,
+        "reward_red_team": 4.784999999999997,
+        "reward_blue_team": 4.844999999999996,
+        "entropy_red": 1.4034842454062568,
+        "entropy_blue": 1.3988845175312412
+    },
+    {
+        "iteration": 40,
+        "reward_red_team": 4.984999999999997,
+        "reward_blue_team": 5.039999999999996,
+        "entropy_red": 1.4143802167266928,
+        "entropy_blue": 1.4246287594559373
+    },
+    {
+        "iteration": 41,
+        "reward_red_team": 5.114999999999996,
+        "reward_blue_team": 5.269999999999995,
+        "entropy_red": 1.3983208640416462,
+        "entropy_blue": 1.4179436098784208
+    },
+    {
+        "iteration": 42,
+        "reward_red_team": 4.854999999999997,
+        "reward_blue_team": 5.029999999999997,
+        "entropy_red": 1.4057623047982493,
+        "entropy_blue": 1.4094671470423539
+    },
+    {
+        "iteration": 43,
+        "reward_red_team": 5.164999999999996,
+        "reward_blue_team": 5.279999999999996,
+        "entropy_red": 1.425864009062449,
+        "entropy_blue": 1.4053627488513787
+    },
+    {
+        "iteration": 44,
+        "reward_red_team": 5.364999999999996,
+        "reward_blue_team": 5.409999999999996,
+        "entropy_red": 1.4479170481363932,
+        "entropy_blue": 1.3831774647037187
+    },
+    {
+        "iteration": 45,
+        "reward_red_team": 5.654999999999994,
+        "reward_blue_team": 5.709999999999995,
+        "entropy_red": 1.4539126727316114,
+        "entropy_blue": 1.4136492080158658
+    },
+    {
+        "iteration": 46,
+        "reward_red_team": 5.344999999999995,
+        "reward_blue_team": 5.3349999999999955,
+        "entropy_red": 1.4947724542270104,
+        "entropy_blue": 1.4288199917475382
+    },
+    {
+        "iteration": 47,
+        "reward_red_team": 5.224999999999995,
+        "reward_blue_team": 5.329999999999996,
+        "entropy_red": 1.491819592581855,
+        "entropy_blue": 1.4295971573001207
+    },
+    {
+        "iteration": 48,
+        "reward_red_team": 4.889999999999996,
+        "reward_blue_team": 5.024999999999997,
+        "entropy_red": 1.5020255778425484,
+        "entropy_blue": 1.4404696743935346
+    },
+    {
+        "iteration": 49,
+        "reward_red_team": 4.719999999999996,
+        "reward_blue_team": 4.809999999999997,
+        "entropy_red": 1.4661838332811992,
+        "entropy_blue": 1.40717112104098
+    },
+    {
+        "iteration": 50,
+        "reward_red_team": 4.9149999999999965,
+        "reward_blue_team": 5.009999999999996,
+        "entropy_red": 1.4545792709456549,
+        "entropy_blue": 1.3900701773663362
+    },
+    {
+        "iteration": 51,
+        "reward_red_team": 4.854999999999997,
+        "reward_blue_team": 4.989999999999997,
+        "entropy_red": 1.4434091282147232,
+        "entropy_blue": 1.3828355601678293
+    },
+    {
+        "iteration": 52,
+        "reward_red_team": 4.824999999999997,
+        "reward_blue_team": 5.089999999999996,
+        "entropy_red": 1.3924492506570714,
+        "entropy_blue": 1.4049489501750831
+    },
+    {
+        "iteration": 53,
+        "reward_red_team": 4.994999999999996,
+        "reward_blue_team": 5.274999999999995,
+        "entropy_red": 1.438218524635479,
+        "entropy_blue": 1.4250407164295515
+    },
+    {
+        "iteration": 54,
+        "reward_red_team": 5.099999999999996,
+        "reward_blue_team": 5.424999999999995,
+        "entropy_red": 1.4319900047779084,
+        "entropy_blue": 1.4325137997666995
+    },
+    {
+        "iteration": 55,
+        "reward_red_team": 5.344999999999995,
+        "reward_blue_team": 5.424999999999995,
+        "entropy_red": 1.4418450810015202,
+        "entropy_blue": 1.4428032289610968
+    },
+    {
+        "iteration": 56,
+        "reward_red_team": 5.474999999999994,
+        "reward_blue_team": 5.469999999999994,
+        "entropy_red": 1.4371448029412164,
+        "entropy_blue": 1.4444404314623938
+    },
+    {
+        "iteration": 57,
+        "reward_red_team": 5.414999999999995,
+        "reward_blue_team": 5.314999999999995,
+        "entropy_red": 1.4336116365207139,
+        "entropy_blue": 1.4688810675374924
+    },
+    {
+        "iteration": 58,
+        "reward_red_team": 4.959999999999996,
+        "reward_blue_team": 4.884999999999996,
+        "entropy_red": 1.4174872153548783,
+        "entropy_blue": 1.449293262471435
+    },
+    {
+        "iteration": 59,
+        "reward_red_team": 4.924999999999997,
+        "reward_blue_team": 4.924999999999995,
+        "entropy_red": 1.4288606860304391,
+        "entropy_blue": 1.4110667668282986
+    },
+    {
+        "iteration": 60,
+        "reward_red_team": 4.889999999999997,
+        "reward_blue_team": 4.889999999999997,
+        "entropy_red": 1.4627242988155733,
+        "entropy_blue": 1.4653623537470897
+    },
+    {
+        "iteration": 61,
+        "reward_red_team": 5.114999999999997,
+        "reward_blue_team": 5.284999999999996,
+        "entropy_red": 1.4269595079951816,
+        "entropy_blue": 1.4715559277683496
+    },
+    {
+        "iteration": 62,
+        "reward_red_team": 5.089999999999996,
+        "reward_blue_team": 5.104999999999997,
+        "entropy_red": 1.4423322548468909,
+        "entropy_blue": 1.460872699684567
+    },
+    {
+        "iteration": 63,
+        "reward_red_team": 4.924999999999996,
+        "reward_blue_team": 4.7499999999999964,
+        "entropy_red": 1.4399030367533365,
+        "entropy_blue": 1.4351130514095227
+    },
+    {
+        "iteration": 64,
+        "reward_red_team": 4.774999999999997,
+        "reward_blue_team": 4.794999999999997,
+        "entropy_red": 1.4844789438350225,
+        "entropy_blue": 1.4410808536741468
+    },
+    {
+        "iteration": 65,
+        "reward_red_team": 4.884999999999996,
+        "reward_blue_team": 5.039999999999996,
+        "entropy_red": 1.4764461562368605,
+        "entropy_blue": 1.4569406788796186
+    },
+    {
+        "iteration": 66,
+        "reward_red_team": 4.864999999999996,
+        "reward_blue_team": 5.019999999999997,
+        "entropy_red": 1.4777691509988573,
+        "entropy_blue": 1.4568946717927853
+    },
+    {
+        "iteration": 67,
+        "reward_red_team": 4.659999999999997,
+        "reward_blue_team": 4.909999999999997,
+        "entropy_red": 1.4487506037117333,
+        "entropy_blue": 1.4539754841062758
+    },
+    {
+        "iteration": 68,
+        "reward_red_team": 4.584999999999997,
+        "reward_blue_team": 4.709999999999997,
+        "entropy_red": 1.480217003201445,
+        "entropy_blue": 1.4745729746917884
+    },
+    {
+        "iteration": 69,
+        "reward_red_team": 4.349999999999998,
+        "reward_blue_team": 4.519999999999999,
+        "entropy_red": 1.5068991517507901,
+        "entropy_blue": 1.4551227680360428
+    },
+    {
+        "iteration": 70,
+        "reward_red_team": 4.414999999999997,
+        "reward_blue_team": 4.579999999999997,
+        "entropy_red": 1.483608490549108,
+        "entropy_blue": 1.4131989512592553
+    },
+    {
+        "iteration": 71,
+        "reward_red_team": 4.544999999999998,
+        "reward_blue_team": 4.879999999999996,
+        "entropy_red": 1.462078382366005,
+        "entropy_blue": 1.4133558913914843
+    },
+    {
+        "iteration": 72,
+        "reward_red_team": 4.734999999999997,
+        "reward_blue_team": 5.049999999999996,
+        "entropy_red": 1.4627241945515077,
+        "entropy_blue": 1.4646624819196836
+    },
+    {
+        "iteration": 73,
+        "reward_red_team": 5.034999999999997,
+        "reward_blue_team": 5.139999999999997,
+        "entropy_red": 1.4627658405689279,
+        "entropy_blue": 1.4431610335906346
+    },
+    {
+        "iteration": 74,
+        "reward_red_team": 5.109999999999997,
+        "reward_blue_team": 5.199999999999996,
+        "entropy_red": 1.4941649481985304,
+        "entropy_blue": 1.4251121121068155
+    },
+    {
+        "iteration": 75,
+        "reward_red_team": 5.2949999999999955,
+        "reward_blue_team": 5.354999999999995,
+        "entropy_red": 1.4777154457184576,
+        "entropy_blue": 1.4361584190166359
+    },
+    {
+        "iteration": 76,
+        "reward_red_team": 4.9549999999999965,
+        "reward_blue_team": 5.1299999999999955,
+        "entropy_red": 1.4760217171843333,
+        "entropy_blue": 1.4217267566670975
+    },
+    {
+        "iteration": 77,
+        "reward_red_team": 4.859999999999997,
+        "reward_blue_team": 4.969999999999996,
+        "entropy_red": 1.4977240389833848,
+        "entropy_blue": 1.4376865576952695
+    },
+    {
+        "iteration": 78,
+        "reward_red_team": 4.609999999999997,
+        "reward_blue_team": 4.674999999999997,
+        "entropy_red": 1.4677615280946095,
+        "entropy_blue": 1.4378981365952441
+    },
+    {
+        "iteration": 79,
+        "reward_red_team": 4.9199999999999955,
+        "reward_blue_team": 5.019999999999995,
+        "entropy_red": 1.4786251166815398,
+        "entropy_blue": 1.4415180285771687
+    },
+    {
+        "iteration": 80,
+        "reward_red_team": 5.204999999999996,
+        "reward_blue_team": 5.309999999999995,
+        "entropy_red": 1.471883931292428,
+        "entropy_blue": 1.4665815844330736
+    },
+    {
+        "iteration": 81,
+        "reward_red_team": 5.114999999999997,
+        "reward_blue_team": 5.1249999999999964,
+        "entropy_red": 1.42652622324725,
+        "entropy_blue": 1.4620794692347128
+    },
+    {
+        "iteration": 82,
+        "reward_red_team": 5.249999999999996,
+        "reward_blue_team": 5.274999999999995,
+        "entropy_red": 1.3936206649708491,
+        "entropy_blue": 1.4475721014443264
+    },
+    {
+        "iteration": 83,
+        "reward_red_team": 5.374999999999996,
+        "reward_blue_team": 5.389999999999995,
+        "entropy_red": 1.4333725560096002,
+        "entropy_blue": 1.4065550317046462
+    },
+    {
+        "iteration": 84,
+        "reward_red_team": 5.639999999999994,
+        "reward_blue_team": 5.789999999999995,
+        "entropy_red": 1.3920237709416283,
+        "entropy_blue": 1.4407945817957322
+    },
+    {
+        "iteration": 85,
+        "reward_red_team": 5.5899999999999945,
+        "reward_blue_team": 5.664999999999995,
+        "entropy_red": 1.4293402325023303,
+        "entropy_blue": 1.4088955464462438
+    },
+    {
+        "iteration": 86,
+        "reward_red_team": 5.759999999999995,
+        "reward_blue_team": 5.894999999999994,
+        "entropy_red": 1.4198255134953393,
+        "entropy_blue": 1.434245010857941
+    },
+    {
+        "iteration": 87,
+        "reward_red_team": 5.794999999999995,
+        "reward_blue_team": 5.774999999999994,
+        "entropy_red": 1.387138270819059,
+        "entropy_blue": 1.4477309564749399
+    },
+    {
+        "iteration": 88,
+        "reward_red_team": 5.579999999999995,
+        "reward_blue_team": 5.764999999999995,
+        "entropy_red": 1.4078525222672356,
+        "entropy_blue": 1.4507437055309613
+    },
+    {
+        "iteration": 89,
+        "reward_red_team": 5.309999999999997,
+        "reward_blue_team": 5.389999999999995,
+        "entropy_red": 1.389949587211814,
+        "entropy_blue": 1.459542421127359
+    },
+    {
+        "iteration": 90,
+        "reward_red_team": 5.194999999999996,
+        "reward_blue_team": 5.1649999999999965,
+        "entropy_red": 1.3784389531860748,
+        "entropy_blue": 1.4508561552211803
+    },
+    {
+        "iteration": 91,
+        "reward_red_team": 5.344999999999995,
+        "reward_blue_team": 5.054999999999996,
+        "entropy_red": 1.3593366564561924,
+        "entropy_blue": 1.4351244695981344
+    },
+    {
+        "iteration": 92,
+        "reward_red_team": 5.474999999999995,
+        "reward_blue_team": 5.164999999999996,
+        "entropy_red": 1.361940603579084,
+        "entropy_blue": 1.4381808865454888
+    },
+    {
+        "iteration": 93,
+        "reward_red_team": 5.654999999999994,
+        "reward_blue_team": 5.429999999999995,
+        "entropy_red": 1.4029331300848273,
+        "entropy_blue": 1.4386628411149467
+    },
+    {
+        "iteration": 94,
+        "reward_red_team": 5.479999999999995,
+        "reward_blue_team": 5.434999999999995,
+        "entropy_red": 1.405418660864234,
+        "entropy_blue": 1.4302749682217837
+    },
+    {
+        "iteration": 95,
+        "reward_red_team": 5.229999999999995,
+        "reward_blue_team": 5.294999999999996,
+        "entropy_red": 1.424117120107015,
+        "entropy_blue": 1.4289587498952945
+    },
+    {
+        "iteration": 96,
+        "reward_red_team": 5.339999999999995,
+        "reward_blue_team": 5.494999999999996,
+        "entropy_red": 1.3891520902674686,
+        "entropy_blue": 1.3959463134407997
+    },
+    {
+        "iteration": 97,
+        "reward_red_team": 5.349999999999995,
+        "reward_blue_team": 5.539999999999996,
+        "entropy_red": 1.3356289767970642,
+        "entropy_blue": 1.3836956365654867
+    },
+    {
+        "iteration": 98,
+        "reward_red_team": 5.569999999999994,
+        "reward_blue_team": 5.6699999999999955,
+        "entropy_red": 1.382409284692822,
+        "entropy_blue": 1.357947387358155
+    },
+    {
+        "iteration": 99,
+        "reward_red_team": 6.019999999999993,
+        "reward_blue_team": 5.919999999999993,
+        "entropy_red": 1.3747219464431206,
+        "entropy_blue": 1.351772636042701
+    },
+    {
+        "iteration": 100,
+        "reward_red_team": 6.114999999999993,
+        "reward_blue_team": 6.154999999999993,
+        "entropy_red": 1.37634370803833,
+        "entropy_blue": 1.3567144596328338
+    },
+    {
+        "iteration": 101,
+        "reward_red_team": 6.329999999999993,
+        "reward_blue_team": 6.319999999999993,
+        "entropy_red": 1.3684521086754338,
+        "entropy_blue": 1.3518155221016177
+    },
+    {
+        "iteration": 102,
+        "reward_red_team": 6.119999999999993,
+        "reward_blue_team": 6.354999999999993,
+        "entropy_red": 1.3642904073662228,
+        "entropy_blue": 1.3716117007563813
+    },
+    {
+        "iteration": 103,
+        "reward_red_team": 6.084999999999993,
+        "reward_blue_team": 6.244999999999993,
+        "entropy_red": 1.3702581378320853,
+        "entropy_blue": 1.3619859449791185
+    },
+    {
+        "iteration": 104,
+        "reward_red_team": 5.869999999999993,
+        "reward_blue_team": 6.089999999999993,
+        "entropy_red": 1.3622221124172211,
+        "entropy_blue": 1.3335532952380438
+    },
+    {
+        "iteration": 105,
+        "reward_red_team": 6.109999999999993,
+        "reward_blue_team": 6.234999999999993,
+        "entropy_red": 1.3726999646873885,
+        "entropy_blue": 1.336229690172339
+    },
+    {
+        "iteration": 106,
+        "reward_red_team": 6.144999999999993,
+        "reward_blue_team": 6.234999999999993,
+        "entropy_red": 1.4200169760693786,
+        "entropy_blue": 1.3725260775576356
+    },
+    {
+        "iteration": 107,
+        "reward_red_team": 6.444999999999992,
+        "reward_blue_team": 6.4849999999999905,
+        "entropy_red": 1.4022839932392042,
+        "entropy_blue": 1.3704632627467315
+    },
+    {
+        "iteration": 108,
+        "reward_red_team": 6.324999999999993,
+        "reward_blue_team": 6.3449999999999935,
+        "entropy_red": 1.3940205470720928,
+        "entropy_blue": 1.3884353291988374
+    },
+    {
+        "iteration": 109,
+        "reward_red_team": 6.499999999999991,
+        "reward_blue_team": 6.474999999999992,
+        "entropy_red": 1.375871671239535,
+        "entropy_blue": 1.351141547900374
+    },
+    {
+        "iteration": 110,
+        "reward_red_team": 6.479999999999992,
+        "reward_blue_team": 6.384999999999994,
+        "entropy_red": 1.3494137520591418,
+        "entropy_blue": 1.3378703509607623
+    },
+    {
+        "iteration": 111,
+        "reward_red_team": 6.649999999999991,
+        "reward_blue_team": 6.574999999999991,
+        "entropy_red": 1.3456812990609035,
+        "entropy_blue": 1.348342371856173
+    },
+    {
+        "iteration": 112,
+        "reward_red_team": 6.354999999999993,
+        "reward_blue_team": 6.414999999999993,
+        "entropy_red": 1.378487349425753,
+        "entropy_blue": 1.350903032720089
+    },
+    {
+        "iteration": 113,
+        "reward_red_team": 6.564999999999991,
+        "reward_blue_team": 6.694999999999992,
+        "entropy_red": 1.4041719209763313,
+        "entropy_blue": 1.3439252628634373
+    },
+    {
+        "iteration": 114,
+        "reward_red_team": 6.544999999999991,
+        "reward_blue_team": 6.704999999999991,
+        "entropy_red": 1.3690210931830935,
+        "entropy_blue": 1.3591363514794244
+    },
+    {
+        "iteration": 115,
+        "reward_red_team": 6.8199999999999905,
+        "reward_blue_team": 6.909999999999991,
+        "entropy_red": 1.4204613307470917,
+        "entropy_blue": 1.335869569381078
+    },
+    {
+        "iteration": 116,
+        "reward_red_team": 6.609999999999992,
+        "reward_blue_team": 6.649999999999993,
+        "entropy_red": 1.4261628420122208,
+        "entropy_blue": 1.3715803136107743
+    },
+    {
+        "iteration": 117,
+        "reward_red_team": 6.439999999999992,
+        "reward_blue_team": 6.459999999999992,
+        "entropy_red": 1.4207857046076047,
+        "entropy_blue": 1.3942658296475807
+    },
+    {
+        "iteration": 118,
+        "reward_red_team": 5.874999999999993,
+        "reward_blue_team": 6.044999999999993,
+        "entropy_red": 1.3950870333860317,
+        "entropy_blue": 1.3855137094102725
+    },
+    {
+        "iteration": 119,
+        "reward_red_team": 5.8899999999999935,
+        "reward_blue_team": 6.044999999999993,
+        "entropy_red": 1.3782589223649766,
+        "entropy_blue": 1.3636404163307614
+    },
+    {
+        "iteration": 120,
+        "reward_red_team": 6.214999999999993,
+        "reward_blue_team": 6.354999999999993,
+        "entropy_red": 1.3945017382662783,
+        "entropy_blue": 1.3727874845266341
+    },
+    {
+        "iteration": 121,
+        "reward_red_team": 6.169999999999993,
+        "reward_blue_team": 6.349999999999993,
+        "entropy_red": 1.392156445980072,
+        "entropy_blue": 1.405314361808276
+    },
+    {
+        "iteration": 122,
+        "reward_red_team": 6.204999999999993,
+        "reward_blue_team": 6.324999999999993,
+        "entropy_red": 1.3866779575745265,
+        "entropy_blue": 1.3892486861596505
+    },
+    {
+        "iteration": 123,
+        "reward_red_team": 6.194999999999992,
+        "reward_blue_team": 6.419999999999993,
+        "entropy_red": 1.4014577317511898,
+        "entropy_blue": 1.414131450012166
+    },
+    {
+        "iteration": 124,
+        "reward_red_team": 6.294999999999993,
+        "reward_blue_team": 6.309999999999992,
+        "entropy_red": 1.4209197166065375,
+        "entropy_blue": 1.408099590834751
+    },
+    {
+        "iteration": 125,
+        "reward_red_team": 6.504999999999992,
+        "reward_blue_team": 6.479999999999993,
+        "entropy_red": 1.3721435089265146,
+        "entropy_blue": 1.3894861495743196
+    },
+    {
+        "iteration": 126,
+        "reward_red_team": 6.629999999999993,
+        "reward_blue_team": 6.744999999999993,
+        "entropy_red": 1.3705405988912474,
+        "entropy_blue": 1.3632139170041648
+    },
+    {
+        "iteration": 127,
+        "reward_red_team": 6.529999999999992,
+        "reward_blue_team": 6.724999999999992,
+        "entropy_red": 1.3605689520476967,
+        "entropy_blue": 1.3993560750037433
+    },
+    {
+        "iteration": 128,
+        "reward_red_team": 6.3049999999999935,
+        "reward_blue_team": 6.519999999999993,
+        "entropy_red": 1.3578468207269907,
+        "entropy_blue": 1.3904386309285959
+    },
+    {
+        "iteration": 129,
+        "reward_red_team": 6.424999999999994,
+        "reward_blue_team": 6.459999999999993,
+        "entropy_red": 1.3578832845534048,
+        "entropy_blue": 1.3460588370760282
+    },
+    {
+        "iteration": 130,
+        "reward_red_team": 6.524999999999992,
+        "reward_blue_team": 6.619999999999992,
+        "entropy_red": 1.3727956523177445,
+        "entropy_blue": 1.3869262855499982
+    },
+    {
+        "iteration": 131,
+        "reward_red_team": 6.779999999999992,
+        "reward_blue_team": 6.724999999999991,
+        "entropy_red": 1.3845380406187038,
+        "entropy_blue": 1.3941359350758213
+    },
+    {
+        "iteration": 132,
+        "reward_red_team": 6.639999999999992,
+        "reward_blue_team": 6.584999999999993,
+        "entropy_red": 1.431242338154051,
+        "entropy_blue": 1.3868650538946992
+    },
+    {
+        "iteration": 133,
+        "reward_red_team": 6.359999999999993,
+        "reward_blue_team": 6.324999999999993,
+        "entropy_red": 1.4254460906469695,
+        "entropy_blue": 1.4283271888250946
+    },
+    {
+        "iteration": 134,
+        "reward_red_team": 6.204999999999993,
+        "reward_blue_team": 6.199999999999993,
+        "entropy_red": 1.4219295735000281,
+        "entropy_blue": 1.405131820705202
+    },
+    {
+        "iteration": 135,
+        "reward_red_team": 6.234999999999993,
+        "reward_blue_team": 6.4699999999999935,
+        "entropy_red": 1.3878824310741205,
+        "entropy_blue": 1.3838232599198819
+    },
+    {
+        "iteration": 136,
+        "reward_red_team": 6.274999999999993,
+        "reward_blue_team": 6.534999999999993,
+        "entropy_red": 1.387099507914649,
+        "entropy_blue": 1.422762465228637
+    },
+    {
+        "iteration": 137,
+        "reward_red_team": 6.3049999999999935,
+        "reward_blue_team": 6.744999999999992,
+        "entropy_red": 1.38709699511528,
+        "entropy_blue": 1.418873570486903
+    },
+    {
+        "iteration": 138,
+        "reward_red_team": 6.029999999999993,
+        "reward_blue_team": 6.224999999999993,
+        "entropy_red": 1.415032483736674,
+        "entropy_blue": 1.4180382641156515
+    },
+    {
+        "iteration": 139,
+        "reward_red_team": 5.939999999999993,
+        "reward_blue_team": 6.044999999999993,
+        "entropy_red": 1.4138539784698076,
+        "entropy_blue": 1.426528490583102
+    },
+    {
+        "iteration": 140,
+        "reward_red_team": 6.234999999999992,
+        "reward_blue_team": 6.189999999999992,
+        "entropy_red": 1.378203139638388,
+        "entropy_blue": 1.4109683867295584
+    },
+    {
+        "iteration": 141,
+        "reward_red_team": 6.604999999999991,
+        "reward_blue_team": 6.419999999999992,
+        "entropy_red": 1.3433802186801869,
+        "entropy_blue": 1.3955767213613137
+    },
+    {
+        "iteration": 142,
+        "reward_red_team": 7.009999999999991,
+        "reward_blue_team": 6.6949999999999905,
+        "entropy_red": 1.3608349353376061,
+        "entropy_blue": 1.407800370006151
+    },
+    {
+        "iteration": 143,
+        "reward_red_team": 6.869999999999991,
+        "reward_blue_team": 6.534999999999992,
+        "entropy_red": 1.3666065295537313,
+        "entropy_blue": 1.3773559127002954
+    },
+    {
+        "iteration": 144,
+        "reward_red_team": 6.4299999999999935,
+        "reward_blue_team": 6.274999999999993,
+        "entropy_red": 1.3921287664803126,
+        "entropy_blue": 1.3812600027769804
+    },
+    {
+        "iteration": 145,
+        "reward_red_team": 6.564999999999993,
+        "reward_blue_team": 6.654999999999992,
+        "entropy_red": 1.4055745429006117,
+        "entropy_blue": 1.37930587017408
+    },
+    {
+        "iteration": 146,
+        "reward_red_team": 6.764999999999992,
+        "reward_blue_team": 6.914999999999992,
+        "entropy_red": 1.3870147625605265,
+        "entropy_blue": 1.3612721748249506
+    },
+    {
+        "iteration": 147,
+        "reward_red_team": 6.954999999999991,
+        "reward_blue_team": 7.224999999999991,
+        "entropy_red": 1.4188238871508632,
+        "entropy_blue": 1.384783660305871
+    },
+    {
+        "iteration": 148,
+        "reward_red_team": 6.759999999999991,
+        "reward_blue_team": 6.834999999999991,
+        "entropy_red": 1.4253534675926292,
+        "entropy_blue": 1.4123819425370958
+    },
+    {
+        "iteration": 149,
+        "reward_red_team": 6.494999999999993,
+        "reward_blue_team": 6.539999999999991,
+        "entropy_red": 1.4416421549294585,
+        "entropy_blue": 1.444995851566394
+    },
+    {
+        "iteration": 150,
+        "reward_red_team": 5.7999999999999945,
+        "reward_blue_team": 5.734999999999994,
+        "entropy_red": 1.468949725975593,
+        "entropy_blue": 1.4537398636982004
+    },
+    {
+        "iteration": 151,
+        "reward_red_team": 5.739999999999994,
+        "reward_blue_team": 5.6749999999999945,
+        "entropy_red": 1.4427117357651393,
+        "entropy_blue": 1.4651842389055478
+    },
+    {
+        "iteration": 152,
+        "reward_red_team": 5.869999999999994,
+        "reward_blue_team": 5.684999999999994,
+        "entropy_red": 1.4775362239089063,
+        "entropy_blue": 1.4514876191334058
+    },
+    {
+        "iteration": 153,
+        "reward_red_team": 5.984999999999993,
+        "reward_blue_team": 6.009999999999994,
+        "entropy_red": 1.440785155625179,
+        "entropy_blue": 1.4402948717917166
+    },
+    {
+        "iteration": 154,
+        "reward_red_team": 5.684999999999994,
+        "reward_blue_team": 5.944999999999994,
+        "entropy_red": 1.3908291052447426,
+        "entropy_blue": 1.4477101193534003
+    },
+    {
+        "iteration": 155,
+        "reward_red_team": 5.974999999999993,
+        "reward_blue_team": 6.314999999999993,
+        "entropy_red": 1.3058724576029284,
+        "entropy_blue": 1.4384895062446594
+    },
+    {
+        "iteration": 156,
+        "reward_red_team": 6.369999999999993,
+        "reward_blue_team": 6.504999999999993,
+        "entropy_red": 1.2494713308990644,
+        "entropy_blue": 1.4374354537876173
+    },
+    {
+        "iteration": 157,
+        "reward_red_team": 6.844999999999991,
+        "reward_blue_team": 6.774999999999992,
+        "entropy_red": 1.293063404162725,
+        "entropy_blue": 1.4116958044634924
+    },
+    {
+        "iteration": 158,
+        "reward_red_team": 7.6199999999999894,
+        "reward_blue_team": 7.384999999999991,
+        "entropy_red": 1.2970511164716494,
+        "entropy_blue": 1.3913202717386444
+    },
+    {
+        "iteration": 159,
+        "reward_red_team": 7.584999999999988,
+        "reward_blue_team": 7.264999999999991,
+        "entropy_red": 1.3674407073246535,
+        "entropy_blue": 1.4008505859682636
+    },
+    {
+        "iteration": 160,
+        "reward_red_team": 7.149999999999991,
+        "reward_blue_team": 7.089999999999991,
+        "entropy_red": 1.3802121852503884,
+        "entropy_blue": 1.4126927486030005
+    },
+    {
+        "iteration": 161,
+        "reward_red_team": 6.7349999999999905,
+        "reward_blue_team": 6.864999999999991,
+        "entropy_red": 1.3695956013535941,
+        "entropy_blue": 1.3901947522163391
+    },
+    {
+        "iteration": 162,
+        "reward_red_team": 6.404999999999992,
+        "reward_blue_team": 6.534999999999991,
+        "entropy_red": 1.313169797261556,
+        "entropy_blue": 1.3965368802829454
+    },
+    {
+        "iteration": 163,
+        "reward_red_team": 6.9449999999999905,
+        "reward_blue_team": 6.864999999999991,
+        "entropy_red": 1.2504760120854232,
+        "entropy_blue": 1.36179464632465
+    },
+    {
+        "iteration": 164,
+        "reward_red_team": 7.1999999999999895,
+        "reward_blue_team": 7.18999999999999,
+        "entropy_red": 1.3242313057526776,
+        "entropy_blue": 1.3590283813015107
+    },
+    {
+        "iteration": 165,
+        "reward_red_team": 7.934999999999989,
+        "reward_blue_team": 8.054999999999989,
+        "entropy_red": 1.353497362136841,
+        "entropy_blue": 1.3589759202053149
+    },
+    {
+        "iteration": 166,
+        "reward_red_team": 7.81999999999999,
+        "reward_blue_team": 8.104999999999988,
+        "entropy_red": 1.3631134118156871,
+        "entropy_blue": 1.3635015433834445
+    },
+    {
+        "iteration": 167,
+        "reward_red_team": 7.7499999999999885,
+        "reward_blue_team": 8.129999999999988,
+        "entropy_red": 1.3699102860625072,
+        "entropy_blue": 1.342535279514969
+    },
+    {
+        "iteration": 168,
+        "reward_red_team": 7.459999999999988,
+        "reward_blue_team": 7.79999999999999,
+        "entropy_red": 1.3618539658925866,
+        "entropy_blue": 1.3579863887961192
+    },
+    {
+        "iteration": 169,
+        "reward_red_team": 7.129999999999991,
+        "reward_blue_team": 7.184999999999991,
+        "entropy_red": 1.3974927441527447,
+        "entropy_blue": 1.3352970091501872
+    },
+    {
+        "iteration": 170,
+        "reward_red_team": 7.33499999999999,
+        "reward_blue_team": 7.314999999999991,
+        "entropy_red": 1.4212199655912257,
+        "entropy_blue": 1.3593684575210014
+    },
+    {
+        "iteration": 171,
+        "reward_red_team": 6.939999999999991,
+        "reward_blue_team": 7.059999999999991,
+        "entropy_red": 1.3798260538350968,
+        "entropy_blue": 1.3859636675566436
+    },
+    {
+        "iteration": 172,
+        "reward_red_team": 6.919999999999991,
+        "reward_blue_team": 7.1549999999999905,
+        "entropy_red": 1.3508643802776132,
+        "entropy_blue": 1.38889515220478
+    },
+    {
+        "iteration": 173,
+        "reward_red_team": 6.934999999999991,
+        "reward_blue_team": 7.159999999999991,
+        "entropy_red": 1.3358169536436757,
+        "entropy_blue": 1.3832215384642284
+    },
+    {
+        "iteration": 174,
+        "reward_red_team": 6.669999999999991,
+        "reward_blue_team": 6.709999999999992,
+        "entropy_red": 1.3720851400847076,
+        "entropy_blue": 1.3838487327098847
+    },
+    {
+        "iteration": 175,
+        "reward_red_team": 6.664999999999991,
+        "reward_blue_team": 6.7799999999999905,
+        "entropy_red": 1.3846530261139074,
+        "entropy_blue": 1.3931348511666963
+    },
+    {
+        "iteration": 176,
+        "reward_red_team": 6.474999999999993,
+        "reward_blue_team": 6.564999999999993,
+        "entropy_red": 1.348609242969089,
+        "entropy_blue": 1.3930708232967333
+    },
+    {
+        "iteration": 177,
+        "reward_red_team": 6.579999999999992,
+        "reward_blue_team": 6.559999999999992,
+        "entropy_red": 1.3587251523489594,
+        "entropy_blue": 1.3884088520080813
+    },
+    {
+        "iteration": 178,
+        "reward_red_team": 6.839999999999992,
+        "reward_blue_team": 6.964999999999991,
+        "entropy_red": 1.2844559459850706,
+        "entropy_blue": 1.3528395544737577
+    },
+    {
+        "iteration": 179,
+        "reward_red_team": 7.134999999999991,
+        "reward_blue_team": 7.169999999999991,
+        "entropy_red": 1.366911551480492,
+        "entropy_blue": 1.342337320825105
+    },
+    {
+        "iteration": 180,
+        "reward_red_team": 7.429999999999989,
+        "reward_blue_team": 7.459999999999988,
+        "entropy_red": 1.3117792667881134,
+        "entropy_blue": 1.329281707074907
+    },
+    {
+        "iteration": 181,
+        "reward_red_team": 7.824999999999989,
+        "reward_blue_team": 7.939999999999987,
+        "entropy_red": 1.3453153892229963,
+        "entropy_blue": 1.3091496390600998
+    },
+    {
+        "iteration": 182,
+        "reward_red_team": 8.244999999999987,
+        "reward_blue_team": 8.299999999999988,
+        "entropy_red": 1.3394396184550392,
+        "entropy_blue": 1.278547596136729
+    },
+    {
+        "iteration": 183,
+        "reward_red_team": 8.094999999999988,
+        "reward_blue_team": 8.109999999999989,
+        "entropy_red": 1.3165043759620052,
+        "entropy_blue": 1.325204873725932
+    },
+    {
+        "iteration": 184,
+        "reward_red_team": 8.269999999999989,
+        "reward_blue_team": 8.519999999999989,
+        "entropy_red": 1.3782567165363795,
+        "entropy_blue": 1.335452684826321
+    },
+    {
+        "iteration": 185,
+        "reward_red_team": 8.129999999999988,
+        "reward_blue_team": 8.319999999999988,
+        "entropy_red": 1.3805017268785866,
+        "entropy_blue": 1.3450002105005325
+    },
+    {
+        "iteration": 186,
+        "reward_red_team": 7.684999999999989,
+        "reward_blue_team": 7.949999999999988,
+        "entropy_red": 1.3653640466174861,
+        "entropy_blue": 1.3602656250198681
+    },
+    {
+        "iteration": 187,
+        "reward_red_team": 7.769999999999989,
+        "reward_blue_team": 7.9899999999999896,
+        "entropy_red": 1.3357149687078265,
+        "entropy_blue": 1.3362790448912258
+    },
+    {
+        "iteration": 188,
+        "reward_red_team": 7.479999999999989,
+        "reward_blue_team": 7.709999999999988,
+        "entropy_red": 1.3178092923657647,
+        "entropy_blue": 1.3535811642164826
+    },
+    {
+        "iteration": 189,
+        "reward_red_team": 7.529999999999989,
+        "reward_blue_team": 7.814999999999989,
+        "entropy_red": 1.3137369154601968,
+        "entropy_blue": 1.3704693783074617
+    },
+    {
+        "iteration": 190,
+        "reward_red_team": 7.47499999999999,
+        "reward_blue_team": 7.704999999999989,
+        "entropy_red": 1.3465009983928724,
+        "entropy_blue": 1.3648636939790513
+    },
+    {
+        "iteration": 191,
+        "reward_red_team": 7.289999999999991,
+        "reward_blue_team": 7.52499999999999,
+        "entropy_red": 1.3477884989912792,
+        "entropy_blue": 1.349659304849563
+    },
+    {
+        "iteration": 192,
+        "reward_red_team": 7.4549999999999885,
+        "reward_blue_team": 7.5349999999999895,
+        "entropy_red": 1.314569674068027,
+        "entropy_blue": 1.3878051267273124
+    },
+    {
+        "iteration": 193,
+        "reward_red_team": 7.489999999999989,
+        "reward_blue_team": 7.309999999999991,
+        "entropy_red": 1.3439004680762687,
+        "entropy_blue": 1.3890627771958537
+    },
+    {
+        "iteration": 194,
+        "reward_red_team": 7.694999999999989,
+        "reward_blue_team": 7.269999999999991,
+        "entropy_red": 1.3323201104848073,
+        "entropy_blue": 1.380949879222446
+    },
+    {
+        "iteration": 195,
+        "reward_red_team": 7.9999999999999885,
+        "reward_blue_team": 7.44499999999999,
+        "entropy_red": 1.3467164680521975,
+        "entropy_blue": 1.3491321685579087
+    },
+    {
+        "iteration": 196,
+        "reward_red_team": 7.729999999999989,
+        "reward_blue_team": 7.3249999999999895,
+        "entropy_red": 1.3690156861146292,
+        "entropy_blue": 1.3742100178554495
+    },
+    {
+        "iteration": 197,
+        "reward_red_team": 7.554999999999989,
+        "reward_blue_team": 7.314999999999991,
+        "entropy_red": 1.3881926960842583,
+        "entropy_blue": 1.3981235124731577
+    },
+    {
+        "iteration": 198,
+        "reward_red_team": 6.979999999999991,
+        "reward_blue_team": 7.059999999999991,
+        "entropy_red": 1.4303981163766648,
+        "entropy_blue": 1.4100932232795222
+    },
+    {
+        "iteration": 199,
+        "reward_red_team": 6.709999999999991,
+        "reward_blue_team": 6.8199999999999905,
+        "entropy_red": 1.436256733338038,
+        "entropy_blue": 1.3885659520344067
+    },
+    {
+        "iteration": 200,
+        "reward_red_team": 6.444999999999992,
+        "reward_blue_team": 6.429999999999992,
+        "entropy_red": 1.437430541589856,
+        "entropy_blue": 1.404097087515725
+    },
+    {
+        "iteration": 201,
+        "reward_red_team": 6.039999999999993,
+        "reward_blue_team": 5.984999999999994,
+        "entropy_red": 1.4314425797512134,
+        "entropy_blue": 1.404121337153695
+    },
+    {
+        "iteration": 202,
+        "reward_red_team": 6.109999999999993,
+        "reward_blue_team": 6.084999999999993,
+        "entropy_red": 1.3933480154143438,
+        "entropy_blue": 1.4033334591736397
+    },
+    {
+        "iteration": 203,
+        "reward_red_team": 6.234999999999992,
+        "reward_blue_team": 6.409999999999992,
+        "entropy_red": 1.4019608851136833,
+        "entropy_blue": 1.3721189701428977
+    },
+    {
+        "iteration": 204,
+        "reward_red_team": 6.4849999999999905,
+        "reward_blue_team": 6.924999999999991,
+        "entropy_red": 1.3895193250974018,
+        "entropy_blue": 1.3670390238364538
+    },
+    {
+        "iteration": 205,
+        "reward_red_team": 6.979999999999991,
+        "reward_blue_team": 7.39999999999999,
+        "entropy_red": 1.3873984445807754,
+        "entropy_blue": 1.3730833405007918
+    },
+    {
+        "iteration": 206,
+        "reward_red_team": 7.02999999999999,
+        "reward_blue_team": 7.3249999999999895,
+        "entropy_red": 1.3748405415524718,
+        "entropy_blue": 1.368965842947364
+    },
+    {
+        "iteration": 207,
+        "reward_red_team": 6.9849999999999905,
+        "reward_blue_team": 7.309999999999989,
+        "entropy_red": 1.3872015678882599,
+        "entropy_blue": 1.3650782605614324
+    },
+    {
+        "iteration": 208,
+        "reward_red_team": 6.639999999999991,
+        "reward_blue_team": 7.049999999999991,
+        "entropy_red": 1.3718948665706592,
+        "entropy_blue": 1.3702851883826717
+    },
+    {
+        "iteration": 209,
+        "reward_red_team": 6.999999999999991,
+        "reward_blue_team": 7.524999999999989,
+        "entropy_red": 1.3743474631473935,
+        "entropy_blue": 1.341241159165899
+    }
+]
